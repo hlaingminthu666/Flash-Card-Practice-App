@@ -1,6 +1,6 @@
 // Flash Card Practice App: offline helper (service worker)
-// App ကို update လုပ်တိုင်း အောက်က VERSION ကို ပြောင်းပါ (ဥပမာ v1.2 -> v1.3)
-const VERSION = "fc-v1.2";
+// App ကို update လုပ်တိုင်း အောက်က VERSION ကို ပြောင်းပါ (ဥပမာ v1.3 -> v1.4)
+const VERSION = "fc-v1.3";
 const FILES = ["./", "./index.html", "./manifest.json", "./icon-192.png", "./icon-512.png", "./apple-touch-icon.png"];
 
 self.addEventListener("install", (e) => {

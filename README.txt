@@ -1,9 +1,12 @@
-Flash Card Practice App V1.2 — PWA ဖိုင်များ
+Flash Card Practice App V1.3 — PWA ဖိုင်များ
 
-ဒီ file ၇ ခုလုံးကို website တစ်ခုထဲ (ဥပမာ GitHub Pages) တစ်ပြိုင်တည်း တင်ပါ။ နာမည်မပြောင်းပါနဲ့။
-  index.html            app ကိုယ်တိုင်
-  manifest.json         app နာမည်၊ အရောင်၊ icon (ဖုန်းထဲ install လုပ်ဖို့)
-  sw.js                 offline helper (internet မရှိရင် သိမ်းထားတဲ့ copy ကို ဖွင့်ပေးတယ်)
-  icon-192.png, icon-512.png, apple-touch-icon.png   ဖုန်း home screen icon များ
+GitHub repository ထဲက file အဟောင်းတွေကို ဒီ file တွေနဲ့ အစားထိုးတင်ပါ (နာမည်မပြောင်းပါနဲ့)။
+  index.html            app ကိုယ်တိုင် (V1.3)
+  manifest.json         app နာမည်၊ အရောင်၊ icon
+  sw.js                 offline helper (VERSION = fc-v1.3)
+  icon-192.png, icon-512.png, apple-touch-icon.png   icon များ (မပြောင်းလဲပါ)
 
-Update လုပ်နည်း: index.html အသစ်ကို အစားထိုးတင်ပြီး sw.js ထဲက VERSION ကို ပြောင်းပါ (fc-v1.2 -> fc-v1.3)။
+နောက် update တိုင်း: index.html ကို အစားထိုးပြီး sw.js ထဲက VERSION ကို ပြောင်းပါ (fc-v1.3 -> fc-v1.4)။
+
+သင်္ချာ သင်္ကေတ: CSV/Excel ထဲမှာ သင်္ချာကို $ … $ ကြားမှာ ရေးပါ။
+  $3/4$  $x^2$  $a_1$  $sqrt(16)$  $\sqrt[3]{27}$  $\frac{a+b}{2}$  $5 * 6$  $180deg$  $x <= ၅$
