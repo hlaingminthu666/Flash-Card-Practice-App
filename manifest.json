@@ -1,0 +1,32 @@
+{
+  "name": "Flash Card Practice App V1.2",
+  "short_name": "Flash Cards",
+  "description": "ကလေးတွေအတွက် Flash Card လေ့ကျင့်ခန်း app",
+  "lang": "my",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#140f2e",
+  "theme_color": "#140f2e",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
